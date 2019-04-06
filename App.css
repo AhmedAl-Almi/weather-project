@@ -1,0 +1,17 @@
+*, html, body{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar{
+  height: 70px;
+  background: #f1f2f5;
+  width: 100%;
+}
+
+.navbar .weather{
+  text-align: center;
+  line-height: 70px;
+  font-size: 20px;
+  color: rgb(33, 33, 207);
+}
